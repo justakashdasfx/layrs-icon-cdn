@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
   "libraries": {
-    "Hugeicon Rounded": {
-      "Bulk": [
+    "hugeicon_round": {
+      "bulk": [
         "1st-brecket",
         "1st-brecket-circle",
         "1st-brecket-square",
@@ -3682,7 +3682,7 @@
         "zoom-out-area",
         "zoom-square"
       ],
-      "Duotone": [
+      "duotone": [
         "1st-brecket",
         "1st-brecket-circle",
         "1st-brecket-square",
@@ -7354,7 +7354,7 @@
         "zoom-out-area",
         "zoom-square"
       ],
-      "Solid": [
+      "solid": [
         "1st-brecket",
         "1st-brecket-circle",
         "1st-brecket-square",
@@ -11030,7 +11030,7 @@
         "zoom-out-area",
         "zoom-square"
       ],
-      "Stroke": [
+      "stroke": [
         "1st-brecket",
         "1st-brecket-circle",
         "1st-brecket-square",
@@ -14702,7 +14702,7 @@
         "zoom-out-area",
         "zoom-square"
       ],
-      "Twotone": [
+      "two_tone": [
         "1st-brecket",
         "1st-brecket-circle",
         "1st-brecket-square",
@@ -18375,8 +18375,8 @@
         "zoom-square"
       ]
     },
-    "Hugeicon Sharp": {
-      "Solid": [
+    "hugeicon_sharp": {
+      "solid": [
         "1st-brecket",
         "1st-brecket-circle",
         "1st-brecket-square",
@@ -21889,7 +21889,7 @@
         "zoom-out-area",
         "zoom-square"
       ],
-      "Stroke": [
+      "stroke": [
         "1st-brecket",
         "1st-brecket-circle",
         "1st-brecket-square",
