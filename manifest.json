@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "libraries": {
-    "Hugeicon Rounded": {
+    "hugeicon_rounded": {
       "bulk": [
         "1st-brecket",
         "1st-brecket-circle",
@@ -18375,7 +18375,7 @@
         "zoom-square"
       ]
     },
-    "Hugeicon Sharp": {
+    "hugeicon_sharp": {
       "solid": [
         "1st-brecket",
         "1st-brecket-circle",
