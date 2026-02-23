@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "libraries": {
+  "icons": {
     "dazzle": {
       "duotone": ["circle-heat", "clock-minus", "temperature-sun"],
       "linear": ["umbrella", "water-arrow-down", "water-arrow-up"]
