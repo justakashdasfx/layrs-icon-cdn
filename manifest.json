@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "libraries": {
+    "Hugeicon Rounded": {
+      "Bulk": [],
+      "Duotone": [],
+      "Solid": [],
+      "Stroke": [],
+      "Twotone": []
+    },
+    "Hugeicon Sharp": {
+      "Solid": [],
+      "Stroke": []
+    }
+  }
+}
