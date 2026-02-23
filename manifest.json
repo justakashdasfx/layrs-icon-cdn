@@ -1,11 +1,44 @@
 {
   "version": "1.0.0",
   "libraries": {
-    "cards": {},
-    "duotone": {},
-    "glass": {},
-    "linear": {},
-    "solid": {},
-    "stroke": {}
+    "dazzle": {
+      "duotone": [
+        "circle-heat",
+        "clock-minus",
+        "temperature-sun"
+      ],
+      "linear": [
+        "umbrella",
+        "water-arrow-down",
+        "water-arrow-up"
+      ]
+    },
+    "hugeicon": {
+      "solid": [
+        "wifi-disconnected-01",
+        "wifi-error-01",
+        "wifi-unlock",
+        "wireless",
+        "wireless-cloud-access"
+      ],
+      "stroke": [
+        "signal-low-medium",
+        "wifi-disconnected-04",
+        "wifi-square",
+        "wifi-unlock"
+      ]
+    },
+    "nucleo": {
+      "cards": [
+        "eftpos",
+        "mastercard",
+        "visa-2"
+      ],
+      "glass": [
+        "grid-circle",
+        "monitor",
+        "window-2"
+      ]
+    }
   }
 }
